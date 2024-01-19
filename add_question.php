@@ -8,7 +8,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 p-8">
-
+    <a class="text-blue-500 hover:text-black" href="index.php">Retour</a>
     <h1 class="text-4xl mb-8">Ajouter une question</h1>
     
     <?php
