@@ -8,7 +8,7 @@ if (isset($_GET["id"])) {
     $sql = "DELETE FROM questions WHERE id = $question_id";
     $conn->query($sql);
 
-    header("Location: list_questions.php");
+    header("Location: list_question.php");
     exit();
 } else {
     echo "ID de question non spécifié.";
