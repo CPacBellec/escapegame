@@ -54,7 +54,7 @@ if (isset($_POST["export"])) {
     </head>
     <body class="bg-gray-100 p-8">
     <a class="text-blue-500 hover:text-black" href="index.php">Retour</a>
-        <div class="space-y-5">
+        <div class="space-y-5 p-8">
             <h1 class="text-4xl mb-8 ">Export de la base de données</h1>
             
             <form method="post" action="<?php echo $_SERVER["PHP_SELF"]; ?>">

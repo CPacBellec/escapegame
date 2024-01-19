@@ -6,10 +6,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-200 p-8">
-
-<?php 
-
-?>
     <h1 class="text-4xl font-bold text-center mb-8">Escape Game The Legend of Zelda : A Timeless story - Admin</h1>
     <div class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-10 rounded drop-shadow-md">
         <div class="grid grid-cols-2 gap-8">
@@ -31,8 +27,5 @@
             <a href="export_database.php" class="bg-yellow-500 text-white p-2 rounded">Exporter</a>
         </div>
     </div>
-
-    
-
 </body>
 </html>
