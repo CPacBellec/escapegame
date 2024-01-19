@@ -10,7 +10,7 @@
 <?php 
 
 ?>
-    <h1 class="text-4xl font-bold text-center mb-8">Escape Game - Admin</h1>
+    <h1 class="text-4xl font-bold text-center mb-8">Escape Game The Legend of Zelda : A Timeless story - Admin</h1>
     <div class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-10 rounded drop-shadow-md">
         <div class="grid grid-cols-2 gap-8">
             <div>
